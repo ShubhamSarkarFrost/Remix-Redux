@@ -18,3 +18,19 @@ This is my attempt to mimic real life websites using RemixJs &amp; ReduxJs ðŸŽ†ð
 | OxygenOs(https://www.oneplus.in/oxygenos16) |              |                |
 | Mandarin Oriental(https://www.mandarinoriental.com/)|       |               |
 | Cheval Blanc(https://www.chevalblanc.com/)  |               |               |
+|The savoy(https://www.thesavoylondon.com/)  |                |               |
+| Sulla Vines(https://sulavineyards.com/)    |                |               |
+| Bumble(https://us1.bumble.com/)            |                |               |
+| Crunch(https://www.crunch.com/)            |                |                |
+| Bloomscape(https://bloomscape.com/)        |                |               |
+| Verezon(https://www.verizon.com/) -> Update to TMobile pattern(https://www.t-mobile.com/)         |                |               |
+| Limeroad(https://www.limeroad.com/)        |                |               |
+| ICICIBank(https://www.icicibank.com/) -> Bank of america(https://www.bankofamerica.com/) |           |               |
+| Tripadvisor(https://www.tripadvisor.in/)   |                |                |
+| Just watches(https://www.justwatches.com/  |                |                 |
+| Taj Hotels(https://www.tajhotels.com/)     |                |                 |
+| Maresk(https://www.maersk.com/)            |                |                 |
+| Scninider Electric(https://www.se.com/)    |                |                 |
+
+
+
