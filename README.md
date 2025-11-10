@@ -31,6 +31,12 @@ This is my attempt to mimic real life websites using RemixJs &amp; ReduxJs ðŸŽ†ð
 | Taj Hotels(https://www.tajhotels.com/)     |                |                 |
 | Maresk(https://www.maersk.com/)            |                |                 |
 | Scninider Electric(https://www.se.com/)    |                |                 |
+| nestaway (https://www.nestaway.com/)       |                |                 |
+| https://www.trivago.in/                    |                |                 |
+| https://www.airbnb.co.in/                  |                |                 |
+| https://www.zoomcar.com/                   |                 |                |
+| https://www.agoda.com/                     |               |                  |
+| https://beatravelbuddy.com/                |               |                  |
 
 
 
