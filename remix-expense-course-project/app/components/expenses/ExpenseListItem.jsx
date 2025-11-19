@@ -1,4 +1,5 @@
-import { Link } from "@remix-run/react";
+import { Link } from '@remix-run/react';
+
 function ExpenseListItem({ id, title, amount }) {
   function deleteExpenseItemHandler() {
     // tbd
